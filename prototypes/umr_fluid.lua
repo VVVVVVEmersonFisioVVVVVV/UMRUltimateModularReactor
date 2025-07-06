@@ -1,0 +1,58 @@
+data:extend({
+    --amplifier
+    {
+        name = 'umr_amplifier_fluid',
+        type = 'fluid',
+        icons = {{icon = "__ultimateCore__/graphics/umr_amplifier/umr_amplifier_fluid.png", icon_size = 64}},
+        default_temperature = 100,
+        max_temperature = 6500,
+        heat_capacity = '125kJ',
+        fuel_value = '125kJ',
+        base_color = { r=0.6, g=0, b=0.6 }, 
+		flow_color = { r=0.6, g=0, b=0.6 }, 
+        subgroup = 'umr_item_subgroup_o',
+        order = 'b-b',
+    },
+    --core
+    {
+        name = 'umr_core_fluid',
+        type = 'fluid',
+        icons = {{icon = "__ultimateCore__/graphics/umr_core/umr_core_fluid.png", icon_size = 64}},
+        default_temperature = 100,
+        max_temperature = 6500,
+        heat_capacity = '125kJ',
+        fuel_value = '800MJ',
+        base_color = { r=0.8, g=0, b=0.8 }, 
+		flow_color = { r=0.8, g=0, b=0.8 }, 
+        subgroup = 'umr_item_subgroup_o',
+        order = 'c-c',
+    },
+    --interface
+    {
+        name = 'umr_interface_fluid',
+        type = 'fluid',
+        icons = {{icon = "__ultimateCore__/graphics/umr_interface/umr_interface_fluid.png", icon_size = 64}},
+        default_temperature = 100,
+        max_temperature = 6500,
+        heat_capacity = '125kJ',
+        fuel_value = '125kJ',
+        base_color = { r=0.4, g=0, b=0.4 }, 
+		flow_color = { r=0.4, g=0, b=0.4 }, 
+        subgroup = 'umr_item_subgroup_o',
+        order = 'a-a',
+    },
+    --output
+    {
+        name = 'umr_output_fluid',
+        type = 'fluid',
+        icons = {{icon = "__ultimateCore__/graphics/umr_output/umr_output_fluid.png", icon_size = 64}},
+        default_temperature = 100,
+        max_temperature = 6500,
+        heat_capacity = '125kJ',
+        fuel_value = '800MJ',
+        base_color = { r=1, g=0, b=1 }, 
+		flow_color = { r=1, g=0, b=1 }, 
+        subgroup = 'umr_item_subgroup_o',
+        order = 'd-d',
+    },
+})

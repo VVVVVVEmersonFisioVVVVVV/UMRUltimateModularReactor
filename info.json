@@ -1,0 +1,26 @@
+{
+    "name": "umrFixed",
+    "version": "2.0.29",
+    "title": "UMR: Ultimate Modular Reactor Fixed",
+    "author": "VVVVVVEmersonFisioVVVVVV",
+    "contact": "https://mods.factorio.com/user/VVVVVVEmersonFisioVVVVVV",
+    "homepage": "https://mods.factorio.com/user/VVVVVVEmersonFisioVVVVVV",
+    "factorio_version": "2.0",
+    "description":"New End Game universal reactor with scalable giga production of electric, heat and operation of exotic furnace, assembling machine, oil refinery, chemical plant, lab, roboport and turrets! All up to 40 module slots, at least 100% base productivity and 64x faster than vanilla! Three balanced operation modes: 38.24GW, 383.84GW and 3.839TW for dream bases. Bootleg of PreLeyZero's UMR. Now with a new Complete overhaul of fluids, balanced fuels, recipes, sounds, graphics and ups efficiency.",
+    "dependencies": [
+        "turbinesplusplusfixed",
+        "ultimateCore >= 1.0.9",
+	"base >= 2.0.0",
+	"?space-age >= 2.0.0",
+        "!umr",
+        "?RateCalculator",
+        "?Bottleneck",
+        "?loaders-modernized",
+        "?UltimateBeltsSpaceAge",
+        "?better-fluid-throughput",
+        "?Krastorio2",
+        "?angelsindustries",
+        "?Yuoki",
+        "?space-exploration"
+    ]
+}

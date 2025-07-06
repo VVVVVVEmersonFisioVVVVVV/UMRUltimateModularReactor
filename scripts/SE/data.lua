@@ -1,0 +1,15 @@
+--on space station
+-- data.raw["assembling-machine"]["umr_amplifier_entity"].se_allow_in_space = true
+-- data.raw["assembling-machine"]["umr_amplifier_entity_2"].se_allow_in_space = true
+-- data.raw["assembling-machine"]["umr_core_entity"].se_allow_in_space = true
+-- data.raw["assembling-machine"]["umr_crafting_entity"].se_allow_in_space = true
+-- data.raw["assembling-machine"]["umr_interface_entity"].se_allow_in_space = true
+-- data.raw["assembling-machine"]["umr_output_entity"].se_allow_in_space = true
+-- data.raw["assembling-machine"]["umr_output_entity_2"].se_allow_in_space = true
+
+-- data.raw["generator"]["umr_converter_entity"].se_allow_in_space = true
+-- data.raw["generator"]["umr_converter_entity_2"].se_allow_in_space = true
+-- data.raw["furnace"]["umr_furnace_entity"].se_allow_in_space = true
+-- data.raw["reactor"]["umr_converter_heat_entity"].se_allow_in_space = true
+-- data.raw["reactor"]["umr_converter_heat_2_entity"].se_allow_in_space = true
+-- data.raw["reactor"]["umr_reactorpipe_entity"].se_allow_in_space = true

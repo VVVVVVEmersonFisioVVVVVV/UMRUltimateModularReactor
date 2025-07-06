@@ -1,0 +1,330 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.29
+Date: 06. 07. 2025
+  Features:
+    - change of some headers, dropping this one after a test with a server host
+---------------------------------------------------------------------------------------------------
+Version: 2.0.28
+Date: 05. 07. 2025
+  Features:
+    - final fix of control codes for multiplayer
+---------------------------------------------------------------------------------------------------
+Version: 2.0.27
+Date: 05. 07. 2025
+  Features:
+    - improvement of control codes for multiplayer
+---------------------------------------------------------------------------------------------------
+Version: 2.0.26
+Date: 05. 07. 2025
+  Features:
+    - improvement of data-final-fixes codes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.25
+Date: 25. 06. 2025
+  Features:
+    - Better ups/fps for plasmatrowner
+---------------------------------------------------------------------------------------------------
+Version: 2.0.24
+Date: 23. 06. 2025
+  Features:
+    - Fixed cannon shells and ion cannon, they should hit asteroids and pentapods
+---------------------------------------------------------------------------------------------------
+Version: 2.0.23
+Date: 23. 06. 2025
+  Features:
+    - fix of plasmathrower fluids
+    - fix of locale
+    - fix of bot selection box
+    - fix of item sounds
+---------------------------------------------------------------------------------------------------
+Version: 2.0.22
+Date: 21. 06. 2025
+  Features:
+    - added UMR turrets
+    - removed almost all 1.1 old codes not used in 2.0
+    - improvement of prototype codes
+    - improvement of data-final-fixes codes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.21
+Date: 12. 06. 2025
+  Features:
+    - nerf to construction bot cargo size, was causing bugs with roboport slots
+    - improvement of control codes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.20
+Date: 12. 06. 2025
+  Features:
+    - buff to roboport: 128 charging points
+---------------------------------------------------------------------------------------------------
+Version: 2.0.19
+Date: 08. 06. 2025
+  Features:
+    - added UMR exotic roboport, construction and logistic robot
+---------------------------------------------------------------------------------------------------
+Version: 2.0.18
+Date: 07. 06. 2025
+  Features:
+    - added extra safety for procedural fuel recipes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.17
+Date: 07. 06. 2025
+  Features:
+    - small data-final-fixes changes for UFP: Ultimate Fusion Power Fixed
+---------------------------------------------------------------------------------------------------
+Version: 2.0.16
+Date: 07. 06. 2025
+  Features:
+    - added extra safety for procedural fuel recipes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.15
+Date: 30. 05. 2025
+  Features:
+    - added extra safety for procedural fuel recipes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.14
+Date: 30. 05. 2025
+  Features:
+    - added hard designation for fuels with empty or bad item names
+    - added freezing ability to umr machines
+---------------------------------------------------------------------------------------------------
+Version: 2.0.13
+Date: 29. 05. 2025
+  Features:
+    - introduction of a core mod, all graphics moved to there
+    - changed all recipes in a way that UMR now support space age quality
+---------------------------------------------------------------------------------------------------
+Version: 2.0.12
+Date: 29. 05. 2025
+  Features:
+    - added hard cap on creating procedural fuel recipes to prevent crashes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.11
+Date: 28. 05. 2025
+  Features:
+    - remade UMR fuel codes from scratch, optimized with better load time and ups, now accept any solid and fluid fuels
+    - removed tons of outdated lua codes
+    - added more pipe connections to interface
+---------------------------------------------------------------------------------------------------
+Version: 2.0.10
+Date: 28. 05. 2025
+  Features:
+    - added setting for expensive umr tech mode and tech with space age science packs
+    - added more pipe connections to tier 2 machines
+    - fixed tier 2 assembling machine recipe cost to match its strength
+---------------------------------------------------------------------------------------------------
+Version: 2.0.9
+Date: 02. 05. 2025
+  Features:
+    - warning: all umr items will be removed, placed buildings stay (just for this update and never again), huge improvement changes to umr mod luas, data, prototypes, data-final-fixes and settings, now should not crash easily and be faster
+    - added space age fuels and balanced item weight
+    - exotic heavy manufacturing  facility now is a universal machine, with menu setting
+    - buff to exotic heavy stamping press facility
+    - change to descriptions
+---------------------------------------------------------------------------------------------------
+Version: 2.0.8
+Date: 30. 04. 2025
+  Features:
+    - update to krastorio 2 2.0.0 fuels
+---------------------------------------------------------------------------------------------------
+Version: 2.0.7
+Date: 27. 04. 2025
+  Features:
+    - change to data final fixes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.6
+Date: 27. 04. 2025
+  Features:
+    - buff to interface machine base speed
+    - buff to amplifier and output steam recipes, 4TW setup is easier now
+    - change to data final fixes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.5
+Date: 27. 04. 2025
+  Features:
+    - removed modded recipes for now, only space age will stay
+---------------------------------------------------------------------------------------------------
+Version: 2.0.4
+Date: 27. 04. 2025
+  Features:
+    - fixed modded recipes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 27. 04. 2025
+  Features:
+    - fixed pressing facility fluidbox
+    - fixed modded recipes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 26. 04. 2025
+  Features:
+    - lab line can work with any science pack, vanilla, space age and modded
+    - buffed all machines to 100% base productivity and 20 module slots
+    - new tier of machines, 200% base productivity and 40 module slots
+    - added recipe groups of space age and many mods
+    - buff to UMR recipe costs
+    - buff to reactor max HP
+    - fix for item groups and UMR menu
+    - improvement of descriptions
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 23. 04. 2025
+  Features:
+    - removed wrong item flags
+    - added new item groups for new tiers of machines
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 22. 04. 2025
+  Features:
+    - actualization of all graphics, icons by Malcolm Riley, and machines by Hurricane
+    - eliminated all not-rotatable machines
+    - added circuitry to all machines
+    - fix and buff to heat converter (now its done)
+---------------------------------------------------------------------------------------------------
+Version: 1.2.1
+Date: 19. 04. 2025
+  Features:
+    - fix and buff to heat converter
+    - buff to all machines HP
+    - fix of module icon positions
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 25. 03. 2025
+  Features:
+    - script improvements
+    - better descriptions
+    - Update to Factorio 2.0
+    - UPS and FPS improvements
+    - many improvements to all machines
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 16. 04. 2024
+  Features:
+    - introduction of UMR lab
+    - fix of UMR assembling machine and oil refinery input pipes
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 11. 04. 2024
+  Features:
+    - introduction of UMR oil refinery and chemical plant
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 09. 04. 2024
+  Features:
+    - buff of furnace and assembling machine
+    - changed the size of furnace and assembling machine, sorry for this but was necessary for the increased output
+---------------------------------------------------------------------------------------------------
+Version: 1.0.9
+Date: 07. 04. 2024
+  Features:
+    - fixed something i broke in assembling machines and furnaces
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8
+Date: 06. 04. 2024
+  Features:
+    - ditched old luas and deprecated mods
+    - added support to more krastorio 2 and SE fuels
+    - fixed the assembling machine to work with any recipe
+    - fixed item group, item subgroup and recipe group, now recipes will show the correct names
+    - rebalance of assembling machine and furnace
+---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: 03. 04. 2024
+  Features:
+    - fixed UMR item menu, now organized in a more intuitive way
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 03. 04. 2024
+  Features:
+    - fix of wrong icons luas for planners
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 01. 04. 2024
+  Features:
+    - fix of wrong map colors
+    - fix of wrong duplicated recipes
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 28. 03. 2024
+  Features:
+    - fixed descriptions
+    - buff of steam recipes
+    - nerf of interface crafting speed, beacon builds now will be more necessary
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 26. 03. 2024
+  Features:
+    - fixed descriptions
+    - balance of heat converters for 10000°C turbines
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 22. 03. 2024
+  Features:
+    - fixed descriptions
+    - balance of heat converters
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 20. 03. 2024
+  Features:
+    - inicial bootleg, all rights to PreLeyZero
+    - changes to most mechanics, improvement of ups and fluids, balance of fuel usage, scalling to over 3TW
+    - visual, sound fixes and descriptions improvements
+    - added UMR reactor pipe, a new build that will work only for heat transfer
+---------------------------------------------------------------------------------------------------
+Version: 0.1.10
+Date: 29. 05. 2021
+  Features:
+    - changed some recipes to not be allowed as intermediate
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+Date: 27. 05. 2021
+  Features:
+    - added SE support
+---------------------------------------------------------------------------------------------------
+Version: 0.1.8
+Date: 26. 04. 2021
+  Bugfixes:
+    - fixed heat output bug
+---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 08. 01. 2021
+  Features:
+    - added recipe for converter (backwards)
+---------------------------------------------------------------------------------------------------
+Version: 0.1.6
+Date: 08. 01. 2021
+  Features:
+    - added converter version for heat
+    - added booktorio support
+---------------------------------------------------------------------------------------------------
+Version: 0.1.5
+Date: 28.12.2020
+  Bugfixes:
+    - fixed crash when playing without rfp
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 27. 12. 2020
+  Features:
+    - added sounds for reactor, interface, crafter and furnace
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 27. 12. 2020
+  Features:
+    - added umrlib see mod portal
+    - added usage for rfp, youki, angels fuels
+    - added module slots to interface
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 19. 12. 2020
+  Bugfixes:
+    - fixes bug with output of dec doesnt match 5GW
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 19. 12. 2020
+  Features:
+    - make script generated recipes invisible from start
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 19. 12. 2020
+  Features:
+    - initial release
+
